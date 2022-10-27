@@ -10,6 +10,8 @@ The purpose of this project is management has given two more assignments: determ
 
 ## Results
 
+![EmployeeDB_Revised](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Data/EmployeeDB_Revised.png)
+
 ### Number of retiring employees per title
 
 The count of retiring employees per title is as follows:
