@@ -14,10 +14,16 @@ The purpose of this project is management has given two more assignments: determ
 
 The count of retiring employees per title is as follows:
 
+![Retiring_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Retiring_Titles.png)
 
 * 369,711 votes were cast in the congressional election.
 
 ### Employees eligible to participate in mentorship program
+
+The count of employees that are mentorship eligible per title is as follows:
+
+
+
 
 * 369,711 votes were cast in the congressional election.
 
