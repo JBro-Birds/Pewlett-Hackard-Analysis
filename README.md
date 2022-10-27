@@ -62,3 +62,15 @@ The count of employees that are mentorship eligible per title with birth dates d
 
 ![Mentorship_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles.png)
 
+* Additional analysis was performed to add to the potential mentor pool by expanding the number of birth years from only 1965 to 1962-1965.  This increased the potential pool dramatically from 1,549 for employees with birth dates only in 1965 to 56,859 for employees with birth dates from 1962 to 1965.  The company should consider expanding the potential mentor pool to more than a single birth date year in order to effectively manage the "silver tsunami".  Going forward there should be a rolling number of years for potential mentors to counter the potential retirees.
+
+The code to filter and report the data of retirement-ready employees born between 1962 and 1965 is as follows:
+
+![Mentorship_Titles_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Code.png)
+
+![Mentorship_Titles_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Code.png)
+
+The count of employees that are mentorship eligible per title with birth dates between 1962 and 1965 is as follows:
+
+![Mentorship_Titles_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Code.png)
+
