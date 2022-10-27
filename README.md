@@ -6,7 +6,7 @@ Pewlett Hackard is a large company with several thousand employees.  The company
 I have been tasked to work with a HR analyst to perform employee research.  Analysis and answers are needed to provide to management for the following questions:  Who will be retiring in the next few years? And how many positions will Pewlett Hackard need to fill?  The employee data is only available in the form of six CSV files because the company has been mainly using Excel and VBA to work with the data.  But a decision has been made to update methods to use SQL which will create considerable efficiencies and reporting capabilities for the large HR dataset.  The task is to build an employee database with SQL by applying data modeling, engineering, and analysis skills.  After sucessfully building the employee database with SQL he initial information and analysis ask was received postively by management.  Realizing the reporting capabilities using SQL from their initial requests, management is requesting additional information and analysis to assist their decsion making for future HR needs.
 
 ### Purpose
-The purpose of this project is management has given two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. After retrieving the data using SQL in pgAdmin and creating .csv files for the two assignments a written report is needed that summarizes my analysis and helps prepare managment for the “silver tsunami” as many current employees reach retirement age.
+The purpose of this project is management has given two more assignments: determine the number of retiring employees per title (employees born between 1/1/1952-12/31/1955), and identify employees who are eligible to participate in a mentorship program (employees born between 1/1/1965-12/31/1965. After retrieving the data using SQL in pgAdmin and creating .csv files for the two assignments a written report is needed that summarizes my analysis and helps prepare managment for the “silver tsunami” as many current employees reach retirement age.
 
 ## Results
 
@@ -20,9 +20,7 @@ The count of retiring employees per title is as follows:
 
 ### Employees eligible to participate in mentorship program
 
-The count of employees that are mentorship eligible per title is as follows:
 
-![Mentorship_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles.png)
 
 
 * 369,711 votes were cast in the congressional election.
@@ -31,8 +29,8 @@ The count of employees that are mentorship eligible per title is as follows:
 ## Summary
 
 ### The Addition of Weather Data and Multi-City Itineraries
-Adding the enhancements provides the customer with the ability to search for travel experiences and itineraries with their preffered weather applied.  Examples of the enhanced customer search and filtering functionality are as follows:
 
-Map with weather information provided based on customer filter:
+The count of employees that are mentorship eligible per title is as follows:
 
-![WeatherPy_vacation_map](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Search/WeatherPy_vacation_map.png)
+![Mentorship_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles.png)
+
