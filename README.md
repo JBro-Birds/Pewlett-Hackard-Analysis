@@ -35,7 +35,7 @@ The summary and count of retiring employees per title is as follows:
 The SQL code to produce the employees eligible to participate in the mentorship program is as follows:
 ![Mentorship_Eligibility_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility_Code.png)
 
-The first number of rows in the summary for the employees eligible to participate in the mentorship program is as follows:
+The first twelve rows in the summary for the employees eligible to participate in the mentorship program (1,549 total employees) is as follows:
 
 ![Mentorship_Eligibility](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility.png)
 
