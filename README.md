@@ -24,7 +24,6 @@ The count of retiring employees per title is as follows:
 
 ![Mentorship_Eligibility](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility.png)
 
-
 * 369,711 votes were cast in the congressional election.
 
 
