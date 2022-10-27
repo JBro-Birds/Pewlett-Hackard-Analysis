@@ -12,21 +12,25 @@ The purpose of this project is management has given two more assignments: determ
 
 ### Database ERD
 
-* The original six HR .csv files provided the foundation to merge data together in order to produce the necessary data needed for the project.  Using the Quick DBD website the database ERD was constructed as follows:
+* The original six HR .csv files provided the foundation to build SQL tables and merge data together in order to produce the necessary data needed for the project.  Using the Quick DBD website the database ERD was constructed as follows:
 
 ![EmployeeDB_Revised](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Data/EmployeeDB_Revised.png)
 
 ### Number of retiring employees per title
 
+* After creating a series of new tables from joining data attributes from the original six tables code was used to filter, count and order the data as needed to report the number of retiring employees per title.  
+
+The SQL code to produce the summary of retiring employees per title is as follows:
+
 ![Unique_Title_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Unique_Title_Code.png)
 
-The count of retiring employees per title is as follows:
+The summary and count of retiring employees per title is as follows:
 
 ![Retiring_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Retiring_Titles.png)
 
-* 369,711 votes were cast in the congressional election.
-
 ### Employees eligible to participate in mentorship program
+
+* After creating a series of new tables from joining data attributes from the original six tables code was used to filter, count and order the data as needed to report the number of retiring employees per title.  
 
 ![Mentorship_Eligibility_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility_Code.png)
 
