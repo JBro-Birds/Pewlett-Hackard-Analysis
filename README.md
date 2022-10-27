@@ -30,13 +30,14 @@ The summary and count of retiring employees per title is as follows:
 
 ### Employees eligible to participate in mentorship program
 
-* After creating a series of new tables from joining data attributes from the original six tables code was used to filter, count and order the data as needed to report the number of retiring employees per title.  
+* Writing the code to create a table showing employees eligible to participate in the mentorship program was made simpler by referencing code written for a prior table, then expanding on `Inner Join` and `Where` functions.
 
+The SQL code to produce the employees eligible to participate in the mentorship program is as follows:
 ![Mentorship_Eligibility_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility_Code.png)
 
-![Mentorship_Eligibility](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility.png)
+The first number of rows in the summary for the employees eligible to participate in the mentorship program is as follows:
 
-* 369,711 votes were cast in the congressional election.
+![Mentorship_Eligibility](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Eligibility.png)
 
 
 ## Summary
