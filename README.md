@@ -46,6 +46,10 @@ The first twelve rows in the summary for the employees eligible to participate i
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+The roles that will need to be filled are as follows:
+
+![Unique_Title_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Unique_Title_Code.png)
+
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
