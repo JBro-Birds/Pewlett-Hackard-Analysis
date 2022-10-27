@@ -44,9 +44,14 @@ The first twelve rows in the summary for the employees eligible to participate i
 
 ## Summary
 
-### The Addition of Weather Data and Multi-City Itineraries
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-The count of employees that are mentorship eligible per title is as follows:
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+![Mentorship_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles.png)
+
+The count of employees that are mentorship eligible per title with birth dates during 1965 (1,549 total employees) is as follows:
 
 ![Mentorship_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles.png)
 
