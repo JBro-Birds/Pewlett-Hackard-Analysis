@@ -66,9 +66,9 @@ The count of employees that are mentorship eligible per title with birth dates d
 
 The code to filter and report the data of retirement-ready employees born between 1962 and 1965 is as follows:
 
-![Mentorship_Titles_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Code.png)
+![Mentorship_Titles_Multiyear_Code1](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Multiyear_Code1.png)
 
-![Mentorship_Titles_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Code.png)
+![Mentorship_Titles_Multiyear_Code2](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Multiyear_Code2.png)
 
 The count of employees that are mentorship eligible per title with birth dates between 1962 and 1965 is as follows:
 
