@@ -12,10 +12,14 @@ The purpose of this project is management has given two more assignments: determ
 
 ### Number of retiring employees per title
 
+The count of retiring employees per title is as follows:
+
+
+* 369,711 votes were cast in the congressional election.
 
 ### Employees eligible to participate in mentorship program
 
-
+* 369,711 votes were cast in the congressional election.
 
 
 ## Summary
