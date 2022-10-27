@@ -24,7 +24,7 @@ The SQL code to produce the summary of retiring employees per title is as follow
 
 ![Unique_Title_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Unique_Title_Code.png)
 
-The summary and count of retiring employees per title is as follows:
+The summary and count of retiring employees per title (72,458 total employees) is as follows:
 
 ![Retiring_Titles](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Retiring_Titles.png)
 
