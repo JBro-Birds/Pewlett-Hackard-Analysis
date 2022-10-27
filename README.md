@@ -10,7 +10,7 @@ The purpose of this project is management has given two more assignments: determ
 
 ## Results
 
-*** Database E
+### Database ERD
 
 * The original six HR .csv files provided the foundation to merge data together in order to produce the necessary data needed for the project.  Using the Quick DBD website the database ERD was constructed as follows:
 
