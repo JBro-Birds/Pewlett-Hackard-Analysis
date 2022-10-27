@@ -51,7 +51,7 @@ The first twelve rows in the summary for the employees eligible to participate i
 
 * Based on the filter criteria of retirement-ready employees born in 1965 there is not nearly enough employees that are mentor eligible.  Comparing the below summary and count of mentorship eligible employees born in 1965 by title (1,549 total employees) to the above summary and count of retirement-ready employees born between 1952-1955 per title (72,458 total employees) it is apparent many more mentors will be needed.  A recommendation is to expand the filter criteria of retirement-ready employees for mentorship eligibility to include additional birth years than only 1965.
 
-The code to filter and repot the data of retirement-ready employees born in 1965 is as follows:
+The code to filter and report the data of retirement-ready employees born in 1965 (the mentorship_eligibility in the `FROM` line is already filtered for birth_date during 1965) is as follows:
 
 ![Mentorship_Titles_Code](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Queries/Mentorship_Titles_Code.png)
 
