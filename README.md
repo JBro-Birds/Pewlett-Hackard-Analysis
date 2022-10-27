@@ -8,6 +8,16 @@ I have been tasked to work with a HR analyst to perform employee research.  Anal
 ### Purpose
 The purpose of this project is management has given two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. After retrieving the data using SQL in pgAdmin and creating .csv files for the two assignments a written report is needed that summarizes my analysis and helps prepare managment for the “silver tsunami” as many current employees reach retirement age.
 
+## Results
+
+### Number of retiring employees per title
+
+
+### Employees eligible to participate in mentorship program
+
+
+
+
 ## Summary
 
 ### The Addition of Weather Data and Multi-City Itineraries
