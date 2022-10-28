@@ -16,7 +16,7 @@ The purpose of this project is management has given two more assignments: determ
 
 ![EmployeeDB_Revised](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Data/EmployeeDB_Revised.png)
 
-* Moving away from independent .csv files to creating a SQL database structure makes it clearly apparent the power of SQL pogramming for data merging, filtering, reporting, etc. as well as the ability to quickly and efficiently expand the sturcture with additional data tables as needed.
+* Moving away from independent .csv files to creating a SQL database structure makes it clearly apparent the power of SQL programming for data merging, filtering, reporting, etc., as well as the ability to quickly and efficiently expand the sturcture with additional data tables as needed.
 
 ### Number of retiring employees per title
 
