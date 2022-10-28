@@ -20,7 +20,7 @@ The purpose of this project is management has given two more assignments: determ
 
 ### Number of retiring employees per title
 
-* After creating a series of new tables from joining data attributes from the original six tables code was used to filter, count and order the data as needed to report the number of retiring employees per title.  
+* After creating a series of new tables by joining data attributes from the original six tables code was used to filter, count and order the data as needed to report the number of retiring employees per title.  
 
 The SQL code to produce the summary of retiring employees per title is as follows:
 
